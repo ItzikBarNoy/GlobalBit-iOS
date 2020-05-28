@@ -1,0 +1,6 @@
+framework module Pods_GlobalBit_Assignment {
+  umbrella header "Pods-GlobalBit Assignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
